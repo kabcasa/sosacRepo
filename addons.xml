@@ -31,11 +31,11 @@
     </extension>
 </addon>
 
-<addon id="repository.sosacRepo" name="sosacRepo official Repo" version="1.0.0" provider-name="sosac-2">
+<addon id="repository.sosacRepo" name="sosacRepo official Repo" version="1.1.0" provider-name="sosac-2">
 	<extension point="xbmc.addon.repository" name="SosacRepo official Repo">
-		<info compressed="false">https://raw.github.com/kabcasa/sosacRepo/master/addons.xml</info>
-		<checksum>https://raw.github.com/kabcasa/sosacRepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/kabcasa/sosacRepo/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/kabcasa/sosacRepo/master/repository.sosacRepo/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/kabcasa/sosacRepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/kabcasa/sosacRepo/tree/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>SosacRepo official Repo</summary>
