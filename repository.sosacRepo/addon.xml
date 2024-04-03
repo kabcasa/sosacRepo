@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.sosacRepo" name="sosacRepo official Repo" version="1.0.0" provider-name="sosac-2">
+	<extension point="xbmc.addon.repository" name="SosacRepo official Repo">
+		<info compressed="false">https://raw.github.com/kabcasa/sosacRepo/master/addons.xml</info>
+		<checksum>https://raw.github.com/kabcasa/sosacRepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/kabcasa/sosacRepo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>SosacRepo official Repo</summary>
+   		<description lang="en">Installe les Addons de Sosac-2. repo maker</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
