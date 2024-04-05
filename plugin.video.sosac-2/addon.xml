@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.sosac-2" name="Sosac.TV" version="1.4.4" provider-name="zak">
+<addon id="plugin.video.sosac-2" name="Sosac.TV" version="1.5.0" provider-name="zak">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
-		<import addon="skin.estuary-sosac" version="3.2.0"/>
 		<import addon="script.module.six" version="1.11.0"/>
         <import addon="script.module.requests" version="2.22.0" />
         <import addon="script.module.routing" version="0.2.3" />
