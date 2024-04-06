@@ -2,14 +2,14 @@
 <addon id="repository.sosacRepo" name="sosacRepo official Repo" version="1.0.0" provider-name="sosac.tv">
 	<extension point="xbmc.addon.repository">
 		<dir minversion="19.0.0">
-			<info compressed="false">https://github.com/kabcasa/sosacRepo/addons.xml</info>
-			<checksum>https://github.com/kabcasa/sosacRepo/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/kabcasa/sosacRepo/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/kabcasa/sosacRepo/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/kabcasa/sosacRepo/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/kabcasa/sosacRepo/tree/master</datadir>
 		</dir>
         <dir maxversion="18.9.0" minversion="17.0.0">
-            <info compressed="false">https://github.com/kabcasa/sosacRepo/17/addons.xml</info>
-            <checksum >https://github.com/kabcasa/sosacRepo/17/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/kabcasa/sosacRepo/17/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/kabcasa/sosacRepo/master/17/addons.xml</info>
+            <checksum >https://raw.githubusercontent.com/kabcasa/sosacRepo/master/17/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/kabcasa/sosacRepo/tree/master/17/</datadir>
         </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
