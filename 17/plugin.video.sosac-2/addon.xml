@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.sosac-2" name="Sosac.TV" version="1.4.0" provider-name="zak">
+<addon id="plugin.video.sosac-2" name="Sosac.TV" version="2.0.0" provider-name="zak">
     <requires>
         <trycatch>
             <try>
